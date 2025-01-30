@@ -17,7 +17,7 @@ export const ProfileInfo = () => {
           <p className="text-green-400 text-sm">Despliegues</p>
         </div>
         <div className="text-center">
-          <h3 className="font-semibold text-green-500 text-lg">4a</h3>
+          <h3 className="font-semibold text-green-500 text-lg">5a</h3>
           <p className="text-green-400 text-sm">Experiencia</p>
         </div>
       </div>
